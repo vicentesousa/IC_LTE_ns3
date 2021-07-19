@@ -44,6 +44,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
    - **TODO 1.8:** MAC, RLC, PDCP
    - **TODO 1.9:** RRM
    - **TODO 1.10:** Desempenho
+   - **TODO 1.10:** Introdução ao LTE-5G (Releases 15 e 16)
 
 ### Frente 2: prototipagem do 4G com ns-3
 
