@@ -36,7 +36,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
    - **TODO 1.6:** Camada Fisica
    - **TODO 1.7:** MAC, RLC, PDCP
    - **TODO 1.8:** RRM
-	 - **TODO 1.9:** Desempenho
+   - **TODO 1.9:** Desempenho
 
 ### Frente 2: prototipagem do 4G com ns-3
 
