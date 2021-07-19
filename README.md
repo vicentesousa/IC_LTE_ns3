@@ -38,21 +38,30 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Capítulo 2: **LTE for UMTS - Evolution to LTE-Advanced**
       - Capítulo 1: **LTE-ADVANCED 3GPP SOLUTION FOR IMT-ADVANCED**
    - **TODO 1.2:** Overview sobre LTE
-      - Capítulos 1 ao 3 (somente até a seção 3.2, não ler a 3.3): **LTE for UMTS - Evolution to LTE-Advanced**
+      - Capítulo 3: **LTE-ADVANCED 3GPP SOLUTION FOR IMT-ADVANCED**
    - **TODO 1.3:** Overview LTE-A  (release 9 e 10)
-      -  Capítulos 1 ao 3: Dr_Harri_Holma,_Dr_Antti_Toskala-LTE_Advanced_3GPP_Solution_for_IMT_Advanced(2012) .pdf. Carrier aggregation: Seções 4.1, 4.2 e 4.6, 5.1, 5.2 e 5.6
-      MIMO: 6.1, 6.2, 6.5, 7.1, 7.2, 7.5. Performance Evaluation: Capítulo 11	
+      - Capítulo 1: **LTE-ADVANCED 3GPP SOLUTION FOR IMT-ADVANCED**
+      - Carrier aggregation: Seções 4.1, 4.2 e 4.6, 5.1, 5.2 e 5.6
+      - MIMO: 6.1, 6.2, 6.5, 7.1, 7.2, 7.5
    - **TODO 1.4:** Overview LTE-A PRO (Releases 11, 12, 13)
-      - Capítulos 1 ao 3: Dr_Harri_Holma,_Dr_Antti_Toskala,_Dr_Jussi_Reunanen-LTE_Small_Cell_Optimization(2016).pd
+      - Capítulos 1 ao 3: **LTE Small_Cell Optimization**
    - **TODO 1.5:** Arquitetura do LTE
+      - Capítulo 3 (somente até a seção 3.2, não ler a 3.3): **LTE for UMTS - Evolution to LTE-Advanced**
    - **TODO 1.6:** Interface de radio e camadas de protocolos
-      - Capítulos 6: Dr_Harri_Holma,_Dr_Antti_Toskala-LTE_for_UMTS__Evolution_to_LTE-Advanced-Wiley(2011).pdf
+      - Seções 6.1 e 6.2: **LTE for UMTS - Evolution to LTE-Advanced**
    - **TODO 1.7:** Camada Fisica
-      - Capítulos 4 e 5: Dr_Harri_Holma,_Dr_Antti_Toskala-LTE_for_UMTS__Evolution_to_LTE-Advanced-Wiley(2011).pdf 
+      - Capítulos 4 e 5: **LTE for UMTS - Evolution to LTE-Advanced**
    - **TODO 1.8:** MAC, RLC, PDCP
+      - Seções 6.3, 6.4, 6.5 e 6.6: **LTE for UMTS - Evolution to LTE-Advanced**
    - **TODO 1.9:** RRM
+      - Capítulo 8: **LTE for UMTS - Evolution to LTE-Advanced**
    - **TODO 1.10:** Desempenho
-   - **TODO 1.10:** Introdução ao LTE-5G (Releases 15 e 16)
+      - Capítulo 10: **LTE for UMTS - Evolution to LTE-Advanced** 
+   - **TODO 1.10:** Introdução ao LTE-5G (Releases 15, 16 e 17)
+      - Capítulos 1 e 3: **5G Technology - 3GPP New Radio**
+      - Leitura somente até o final da Seção 2: **5G New Radio Network Planning, Whitepaper, Ranplan Wireless Network Design Ltd,  February 2019** 
+      - Ler artigo todo: **The 5G Evolution: 3GPP Releases 16-17, 5G Americas, Jan, 2020**
+      - Ler artigo todo: **5G NEW RADIO – EVOLUTION, Ericsson Technology Review, Mar, 2020** 
 
 ### Frente 2: prototipagem do 4G com ns-3
 
