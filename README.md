@@ -29,6 +29,14 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 
 ### Frente 1: Redes de Comunicações Móveis 4G-LTE
    - **TODO 1.1:** Padronização de sistemas 3GPP
+      - Descomplicando o 5G (https://5gdescomplicado.com/2020/05/03/descomplicando-o-5g/)
+      - De onde vêm os padrões? https://5gdescomplicado.com/2020/05/11/de-onde-vem-os-padroes/
+      - Como as Redes de Acesso por Rádio (RANs) evoluíram em direção ao 5G? https://5gdescomplicado.com/2020/05/17/como-as-redes-de-acesso-por-radio-rans-evoluiram-em-direcao-ao-5g/
+      - Breve descrição do potencial do 5G para transformar nossas atividades produtivas: https://5gdescomplicado.com/2020/06/08/nem-todos-os-bits-nascem-iguais/
+      - Sobre patentes: Nosso dia a dia cercado de patentes: https://5gdescomplicado.com/2020/06/15/nosso-dia-a-dia-cercado-de-patentes/
+      - Padronização: O Grande Bazar onde nasce o 5G: https://5gdescomplicado.com/2020/06/27/188/ 
+      - Capítulo 2: **LTE for UMTS - Evolution to LTE-Advanced**
+      - Capítulo 1: **LTE-ADVANCED 3GPP SOLUTION FOR IMT-ADVANCED**
    - **TODO 1.2:** Overview sobre LTE
       - Capítulos 1 ao 3 (somente até a seção 3.2, não ler a 3.3): **LTE for UMTS - Evolution to LTE-Advanced**
    - **TODO 1.3:** Overview LTE-A  (release 9 e 10)
