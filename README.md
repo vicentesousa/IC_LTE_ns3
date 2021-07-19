@@ -30,13 +30,20 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 ### Frente 1: Redes de Comunicações Móveis 4G-LTE
    - **TODO 1.1:** Padronização de sistemas 3GPP
    - **TODO 1.2:** Overview sobre LTE
-   - **TODO 1.3:** Overview LTE-A
-   - **TODO 1.4:** Arquitetura do LTE
-   - **TODO 1.5:** Interface de radio e camadas de protocolos
-   - **TODO 1.6:** Camada Fisica
-   - **TODO 1.7:** MAC, RLC, PDCP
-   - **TODO 1.8:** RRM
-   - **TODO 1.9:** Desempenho
+      - Capítulos 1 ao 3 (somente até a seção 3.2, não ler a 3.3): **LTE for UMTS - Evolution to LTE-Advanced**
+   - **TODO 1.3:** Overview LTE-A  (release 9 e 10)
+      -  Capítulos 1 ao 3: Dr_Harri_Holma,_Dr_Antti_Toskala-LTE_Advanced_3GPP_Solution_for_IMT_Advanced(2012) .pdf. Carrier aggregation: Seções 4.1, 4.2 e 4.6, 5.1, 5.2 e 5.6
+      MIMO: 6.1, 6.2, 6.5, 7.1, 7.2, 7.5. Performance Evaluation: Capítulo 11	
+   - **TODO 1.4:** Overview LTE-A PRO (Releases 11, 12, 13)
+      - Capítulos 1 ao 3: Dr_Harri_Holma,_Dr_Antti_Toskala,_Dr_Jussi_Reunanen-LTE_Small_Cell_Optimization(2016).pd
+   - **TODO 1.5:** Arquitetura do LTE
+   - **TODO 1.6:** Interface de radio e camadas de protocolos
+      - Capítulos 6: Dr_Harri_Holma,_Dr_Antti_Toskala-LTE_for_UMTS__Evolution_to_LTE-Advanced-Wiley(2011).pdf
+   - **TODO 1.7:** Camada Fisica
+      - Capítulos 4 e 5: Dr_Harri_Holma,_Dr_Antti_Toskala-LTE_for_UMTS__Evolution_to_LTE-Advanced-Wiley(2011).pdf 
+   - **TODO 1.8:** MAC, RLC, PDCP
+   - **TODO 1.9:** RRM
+   - **TODO 1.10:** Desempenho
 
 ### Frente 2: prototipagem do 4G com ns-3
 
