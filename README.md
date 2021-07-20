@@ -64,5 +64,28 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Ler artigo todo: **5G NEW RADIO – EVOLUTION, Ericsson Technology Review, Mar, 2020** 
 
 ### Frente 2: prototipagem do 4G com ns-3
-
+   - **TODO 2.1**: Entender e explicar em um jupyter notebook o Basic simulation program (https://www.nsnam.org/docs/models/html/lte-user.html): LTE-only sem EPC. O ipynb deve ter o seguinte conteúdo:
+      - **C1**: explicar cada parte do script **lena-simple.cc**;
+      - **C2**: explicar como incluir parâmetros de configuração via linha de comando (ver Seção Configuration of LTE model parameters);
+      - **C3**: explicar como usar o ConfigStore para grava e carregar parâmetros de ua simulação;
+      - **C4**: Habilitar, gravar e explicar cada arquivo de saída da simulação (ver Seção Simulation Output). Entender e explicar no ipynb cada coluna dos arquivos de saída da simulação. Explicar como manipular a pasta de saída dos resultados. Ver scritp **lena-rlc-traces.cc**.
+   -  **TODO 2.2**: Entender, simular e plotar o fading traces 
+      - **C1**: Ler e explicar resumidamente os efeitos da Fading (diferenciar desvanecimentos plano e seletivo em frequência. Diferenciar desvanecimentos lento e rápido. Talvez valha a pena assistir as aulas da UNIDADE I de Comunicações Móveis. Prof. Vicente pode disponibilizar os vídeos)
+      - **C2**: Explicar como gerar os arquivo de fading via Matlab (**/lte/model/fading-traces/fading-trace-generator.m**). Ver seção Fading Traces Generation.
+      - **C3**: Explicar como habilitar o fading em simulações do ns-3. Explicar script **lena-fading.cc**. Ver seção Fading Traces Usage.
+   -  **TODO 2.3**: Entender, simular e plotar o REM (Radio Environment Maps)
+      - **C1**: Explicar o que é o REM e para que ele serve
+      - **C2**: Explicar o **script lena-rem.cc** e plotar o REM 
+      - **C3**: Explicar o script **lena-rem-sector-antenna.cc** e plotar o REM 
+   - **TODO 2.4**: Entender e simular LTE com EPC
+      - **C1**: explicar cada parte do script **lena-simple-epc.cc**. Ver Seção Evolved Packet Core (EPC)
+      - **C2**: Pesquisar diferentes modelos de tráfego e rodar 4 serviços diferentes (e.g., voz, streaming, ftp, e-mail) em um único Bearer;
+      - **C3**: Ativar um bearer diferente para cada serviço;
+      - **C4**: Fazer curvas de Tput (e outras métricas) com o aumento da carga do sistema. Comparar o desempenho dos 4 serviços com um bearer e com 4 bearers.
+   - **TODO 2.5**: Entender e simular o RLF e o Handover
+      - **C1**: explicar o RLF e o script **lena-radio-link-failure.cc**. Ver a Seção Radio link failure example e o https://www.sharetechnote.com/html/Handbook_LTE_RadioLinkFailure.html
+      - **C2**: Repetir os dois experimentos e gráficos da Seção Radio link failure example (sem handover);
+      - **C3**: Repetir os gráficos ativando o Handover (para entender e configurar o Handover, ver Seção Handover simulation campaign e o script **lena-dual-stripe.cc**)
+      
+     
 
