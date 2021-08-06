@@ -37,6 +37,8 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Padronização: O Grande Bazar onde nasce o 5G: https://5gdescomplicado.com/2020/06/27/188/ 
       - Capítulo 2: **LTE for UMTS - Evolution to LTE-Advanced**
       - Capítulo 1: **LTE-ADVANCED 3GPP SOLUTION FOR IMT-ADVANCED**
+      - Ricardo: **Prazo:**  **Feito:**     
+      - Dario: **Prazo:**  **Feito:** 06/08/2021. 
    - **TODO 1.2:** Overview sobre LTE
       - Capítulo 3: **LTE-ADVANCED 3GPP SOLUTION FOR IMT-ADVANCED**
    - **TODO 1.3:** Overview LTE-A  (release 9 e 10)
@@ -69,6 +71,8 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - **C2**: explicar como incluir parâmetros de configuração via linha de comando (ver Seção Configuration of LTE model parameters);
       - **C3**: explicar como usar o ConfigStore para grava e carregar parâmetros de ua simulação;
       - **C4**: Habilitar, gravar e explicar cada arquivo de saída da simulação (ver Seção Simulation Output). Entender e explicar no ipynb cada coluna dos arquivos de saída da simulação. Explicar como manipular a pasta de saída dos resultados. Ver scritp **lena-rlc-traces.cc**.
+      - Ricardo: **Prazo:**  **Feito:**     
+      - Dario: **Prazo:**  **Feito:**
    -  **TODO 2.2**: Entender, simular e plotar o fading traces 
       - **C1**: Ler e explicar resumidamente os efeitos da Fading (diferenciar desvanecimentos plano e seletivo em frequência. Diferenciar desvanecimentos lento e rápido. Talvez valha a pena assistir as aulas da UNIDADE I de Comunicações Móveis. Prof. Vicente pode disponibilizar os vídeos)
       - **C2**: Explicar como gerar os arquivo de fading via Matlab (**/lte/model/fading-traces/fading-trace-generator.m**). Ver seção Fading Traces Generation.
