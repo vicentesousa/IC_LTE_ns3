@@ -37,7 +37,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Padronização: O Grande Bazar onde nasce o 5G: https://5gdescomplicado.com/2020/06/27/188/ 
       - Capítulo 2: **LTE for UMTS - Evolution to LTE-Advanced**
       - Capítulo 1: **LTE-ADVANCED 3GPP SOLUTION FOR IMT-ADVANCED**
-      - Ricardo: **Prazo:** .  **Feito:** .
+      - Ricardo: **Prazo:** .  **Feito:** 06/08/2021.
       - Dario: **Prazo:** . **Feito:** 06/08/2021. 
    - **TODO 1.2:** Overview sobre LTE
       - Capítulo 3: **LTE-ADVANCED 3GPP SOLUTION FOR IMT-ADVANCED**
