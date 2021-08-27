@@ -41,7 +41,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Dario: **Prazo:** . **Feito:** 06/08/2021. 
    - **TODO 1.2:** Overview sobre LTE
       - Capítulo 3: **LTE-ADVANCED 3GPP SOLUTION FOR IMT-ADVANCED**
-      - Ricardo: **Prazo:**  27/08/2021.  **Feito:** .     
+      - Ricardo: **Prazo:**  27/08/2021.  **Feito:** 27/08/2021.     
       - Dario: **Prazo:** 27/08/2021.  **Feito:** .
    - **TODO 1.3:** Overview LTE-A  (release 9 e 10)
       - Capítulo 1: **LTE-ADVANCED 3GPP SOLUTION FOR IMT-ADVANCED**
