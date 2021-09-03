@@ -48,7 +48,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Carrier aggregation: Seções 4.1, 4.2 e 4.6, 5.1, 5.2 e 5.6
       - MIMO: 6.1, 6.2, 6.5, 7.1, 7.2, 7.5
       - Ricardo: **Prazo:** 03/09/2021.  **Feito:** .     
-      - Dario: **Prazo:** 03/09/2021.  **Feito:** . 
+      - Dario: **Prazo:** 03/09/2021.  **Feito:** 02/09/2021. 
    - **TODO 1.4:** Overview LTE-A PRO (Releases 11, 12, 13)
       - Capítulos 1 ao 3: **LTE Small_Cell Optimization**
       - Ricardo: **Prazo:** TBD .  **Feito:** .   
