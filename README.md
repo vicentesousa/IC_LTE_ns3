@@ -91,8 +91,8 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - **C2**: explicar como incluir parâmetros de configuração via linha de comando (ver Seção Configuration of LTE model parameters);
       - **C3**: explicar como usar o ConfigStore para grava e carregar parâmetros de ua simulação;
       - **C4**: Habilitar, gravar e explicar cada arquivo de saída da simulação (ver Seção Simulation Output). Entender e explicar no ipynb cada coluna dos arquivos de saída da simulação. Explicar como manipular a pasta de saída dos resultados. Ver scritp **lena-rlc-traces.cc**.
-      - Ricardo: **Prazo:** 20/08/2021.  **Feito:** .     
-      - Dario: **Prazo:** 20/08/2021.  **Feito:** .
+      - Ricardo: **Prazo:** 20/08/2021.  **Feito:** 03/09/2021.     
+      - Dario: **Prazo:** 20/08/2021.  **Feito:** 03/09/2021.
    -  **TODO 2.2**: Entender, simular e plotar o fading traces 
       - **C1**: Ler e explicar resumidamente os efeitos da Fading (diferenciar desvanecimentos plano e seletivo em frequência. Diferenciar desvanecimentos lento e rápido. Talvez valha a pena assistir as aulas da UNIDADE I de Comunicações Móveis. Prof. Vicente pode disponibilizar os vídeos)
       - **C2**: Explicar como gerar os arquivo de fading via Matlab (**/lte/model/fading-traces/fading-trace-generator.m**). Ver seção Fading Traces Generation.
