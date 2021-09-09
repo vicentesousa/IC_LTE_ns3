@@ -110,6 +110,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - **C2**: Pesquisar diferentes modelos de tráfego e rodar 4 serviços diferentes (e.g., voz, streaming, ftp, e-mail) em um único Bearer;
       - **C3**: Ativar um bearer diferente para cada serviço;
       - **C4**: Fazer curvas de Tput (e outras métricas) com o aumento da carga do sistema. Comparar o desempenho dos 4 serviços com um bearer e com 4 bearers.
+      - **C5**: Fazer campanha de convergência das métricas.
       - Ricardo: **Prazo:** TBD .  **Feito:** .    
       - Dario: **Prazo:** TBD .  **Feito:** .
    - **TODO 2.5**: Entender e simular o RLF e o Handover
