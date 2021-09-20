@@ -12,7 +12,7 @@
 - Conhecer tecnicamente o LTE
 - Preparar hands-ons tutoriais sobre o ns-3
 - Lecionar um minicurso sobre prototipagem de redes 4G usando o ns-3 (para alunos da UFRN)
-- Fazer um estudo inédioo em redes 4G 
+- Fazer um estudo inédioto em redes 4G 
 
 ## Modus Operandi
 
