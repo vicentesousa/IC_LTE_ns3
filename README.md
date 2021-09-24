@@ -97,8 +97,8 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - **C1**: Ler e explicar resumidamente os efeitos da Fading (diferenciar desvanecimentos plano e seletivo em frequência. Diferenciar desvanecimentos lento e rápido. Talvez valha a pena assistir as aulas da UNIDADE I de Comunicações Móveis. Prof. Vicente pode disponibilizar os vídeos)
       - **C2**: Explicar como gerar os arquivo de fading via Matlab (**/lte/model/fading-traces/fading-trace-generator.m**). Ver seção Fading Traces Generation.
       - **C3**: Explicar como habilitar o fading em simulações do ns-3. Explicar script **lena-fading.cc**. Ver seção Fading Traces Usage.
-      - Ricardo: **Prazo:** TBD .  **Feito:** .   
-      - Dario: **Prazo:** TBD .  **Feito:** .
+      - Ricardo: **Prazo:** TBD .  **Feito:** 24/09/2021.   
+      - Dario: **Prazo:** TBD .  **Feito:** 24/09/2021.
    -  **TODO 2.3**: Entender, simular e plotar o REM (Radio Environment Maps)
       - **C1**: Explicar o que é o REM e para que ele serve
       - **C2**: Explicar o **script lena-rem.cc** e plotar o REM 
