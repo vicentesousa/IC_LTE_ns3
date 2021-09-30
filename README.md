@@ -77,7 +77,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Capítulo 10: **LTE for UMTS - Evolution to LTE-Advanced** 
       - Ricardo: **Prazo:** TBD .  **Feito:** .   
       - Dario: **Prazo:** TBD .  **Feito:** .
-   - **TODO 1.10:** Introdução ao LTE-5G (Releases 15, 16 e 17)
+   - **TODO 1.11:** Introdução ao LTE-5G (Releases 15, 16 e 17)
       - Capítulos 1 e 3: **5G Technology - 3GPP New Radio**
       - Leitura somente até o final da Seção 2: **5G New Radio Network Planning, Whitepaper, Ranplan Wireless Network Design Ltd,  February 2019** 
       - Ler artigo todo: **The 5G Evolution: 3GPP Releases 16-17, 5G Americas, Jan, 2020**
