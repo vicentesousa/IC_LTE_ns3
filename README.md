@@ -103,8 +103,8 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - **C1**: Explicar o que é o REM e para que ele serve
       - **C2**: Explicar o **script lena-rem.cc** e plotar o REM 
       - **C3**: Explicar o script **lena-rem-sector-antenna.cc** e plotar o REM 
-      - Ricardo: **Prazo:** TBD .  **Feito:** .     
-      - Dario: **Prazo:** TBD .  **Feito:** .
+      - Ricardo: **Prazo:** TBD .  **Feito:** 06/10/2021.     
+      - Dario: **Prazo:** TBD .  **Feito:** 06/10/2021.
    - **TODO 2.4**: Entender e simular LTE com EPC
       - **C1**: explicar cada parte do script **lena-simple-epc.cc**. Ver Seção Evolved Packet Core (EPC)
       - **C2**: Pesquisar diferentes modelos de tráfego e rodar 4 serviços diferentes (e.g., voz, streaming, ftp, e-mail) em um único Bearer;
