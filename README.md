@@ -113,8 +113,8 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - **C5**: CDFs de SINRs, TBler, MCS para uma carga baixa e alta.
       - **C6**: Repetir as curvas para um número maior de UEs.
       - **C7**: Utilizar um cenário hexagonal e multicelular.
-      - Ricardo: **Prazo:** TBD .  **Feito:** 06/10/2021.     
-      - Dario: **Prazo:** TBD .  **Feito:** 06/10/2021.
+      - Ricardo: **Prazo:** TBD .  **Feito:** .     
+      - Dario: **Prazo:** TBD .  **Feito:** .
    - **TODO 2.5**: Entender e simular LTE com EPC
       - **C1**: explicar cada parte do script **lena-simple-epc.cc**. Ver Seção Evolved Packet Core (EPC)
       - **C2**: Pesquisar diferentes modelos de tráfego e rodar 4 serviços diferentes (e.g., voz, streaming, ftp, e-mail) em um único Bearer;
