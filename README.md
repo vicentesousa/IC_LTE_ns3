@@ -105,7 +105,17 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - **C3**: Explicar o script **lena-rem-sector-antenna.cc** e plotar o REM 
       - Ricardo: **Prazo:** TBD .  **Feito:** 06/10/2021.     
       - Dario: **Prazo:** TBD .  **Feito:** 06/10/2021.
-   - **TODO 2.4**: Entender e simular LTE com EPC
+   -  **TODO 2.4**: Entender, simular e plotar um cenário LTE + EPC
+      - **C1**: Explicar cada parte do script **lena-simple-epc.cc**. Ver Seção Evolved Packet Core (EPC)
+      - **c2**: Cenário apenas com 1 eNB e 1 UE. Adicionar o fast fading e shadowing. 
+      - **C3**: Fazer campanha de convergência das métricas.
+      - **C4**: Fazer curvas de Tput (e outras métricas) com o aumento da carga do sistema (UdpClientHelper)
+      - **C5**: CDFs de SINRs, TBler, MCS para uma carga baixa e alta.
+      - **C6**: Repetir as curvas para um número maior de UEs.
+      - **C7**: Utilizar um cenário hexagonal e multicelular.
+      - Ricardo: **Prazo:** TBD .  **Feito:** 06/10/2021.     
+      - Dario: **Prazo:** TBD .  **Feito:** 06/10/2021.
+   - **TODO 2.5**: Entender e simular LTE com EPC
       - **C1**: explicar cada parte do script **lena-simple-epc.cc**. Ver Seção Evolved Packet Core (EPC)
       - **C2**: Pesquisar diferentes modelos de tráfego e rodar 4 serviços diferentes (e.g., voz, streaming, ftp, e-mail) em um único Bearer;
       - **C3**: Ativar um bearer diferente para cada serviço;
@@ -113,7 +123,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - **C5**: Fazer campanha de convergência das métricas.
       - Ricardo: **Prazo:** TBD .  **Feito:** .    
       - Dario: **Prazo:** TBD .  **Feito:** .
-   - **TODO 2.5**: Entender e simular o RLF e o Handover
+   - **TODO 2.6**: Entender e simular o RLF e o Handover
       - **C1**: explicar o RLF e o script **lena-radio-link-failure.cc**. Ver a Seção Radio link failure example e o https://www.sharetechnote.com/html/Handbook_LTE_RadioLinkFailure.html
       - **C2**: Repetir os dois experimentos e gráficos da Seção Radio link failure example (sem handover);
       - **C3**: Repetir os gráficos ativando o Handover (para entender e configurar o Handover, ver Seção Handover simulation campaign e o script **lena-dual-stripe.cc**)
