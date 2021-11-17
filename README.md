@@ -86,7 +86,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Dario: **Prazo:** TBD .  **Feito:** .
 
 ### Frente 2: prototipagem do 4G com ns-3
-   - **TODO 2.0**: instalar e integrar o ns-3 no VS code
+   - **TODO 2.0**: instalar e integrar o ns-3 no VS code [Hands-on](https://github.com/vicentesousa/IC_LTE_ns3/blob/main/fase_01/HD_00/f01_hd00.ipynb)
    
    - **TODO 2.1**: Entender e explicar em um jupyter notebook o Basic simulation program (https://www.nsnam.org/docs/models/html/lte-user.html): LTE-only sem EPC. O ipynb deve ter o seguinte conteúdo:
       - **C1**: explicar cada parte do script **lena-simple.cc**;
