@@ -57,36 +57,36 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Capítulos 1 ao 3: **LTE Small_Cell Optimization**
       - Ricardo: **Prazo:** TBD .  **Feito:** 14/10/2021.   
       - Dario: **Prazo:** TBD .  **Feito:** 14/10/2021.
-      - Eriberto: **Prazo:** . **Feito:** . 
+      - Eriberto: **Prazo:20/12/2021** . **Feito:** . 
    - **TODO 1.5:** Arquitetura do LTE
       - Capítulo 3 (somente até a seção 3.2, não ler a 3.3): **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:**14/10/2021.     
       - Dario: **Prazo:** TBD .  **Feito:**14/10/2021.
-      - Eriberto: **Prazo:** . **Feito:** . 
+      - Eriberto: **Prazo:20/12/2021** . **Feito:** . 
    - **TODO 1.6:** Interface de radio e camadas de protocolos
       - Seções 6.1 e 6.2: **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:** .     
       - Dario: **Prazo:** TBD.  **Feito:** .
-      - Eriberto: **Prazo:** . **Feito:** . 
+      - Eriberto: **Prazo:22/12/2021** . **Feito:** . 
    - **TODO 1.7:** Camada Fisica
       - Capítulos 4 e 5: **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:** .    
-      - Dario: **Prazo:** TBD .  **Feito:** .
+      - Dario: **Prazo:28/12/2021** TBD .  **Feito:** .
    - **TODO 1.8:** MAC, RLC, PDCP
       - Seções 6.3, 6.4, 6.5 e 6.6: **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:** .     
       - Dario: **Prazo:** TBD .  **Feito:** .
-      - Eriberto: **Prazo:** . **Feito:** . 
+      - Eriberto: **Prazo:30/12/2021** . **Feito:** . 
    - **TODO 1.9:** RRM
       - Capítulo 8: **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:** .  
       - Dario: **Prazo:** TBD .  **Feito:** .
-      - Eriberto: **Prazo:** . **Feito:** . 
+      - Eriberto: **Prazo:04/01/2022** . **Feito:** . 
    - **TODO 1.10:** Desempenho
       - Capítulo 10: **LTE for UMTS - Evolution to LTE-Advanced** 
       - Ricardo: **Prazo:** TBD .  **Feito:** .   
       - Dario: **Prazo:** TBD .  **Feito:** .
-      - Eriberto: **Prazo:** . **Feito:** . 
+      - Eriberto: **Prazo:06/01/2021** . **Feito:** . 
    - **TODO 1.11:** Introdução ao LTE-5G (Releases 15, 16 e 17)
       - Capítulos 1 e 3: **5G Technology - 3GPP New Radio**
       - Leitura somente até o final da Seção 2: **5G New Radio Network Planning, Whitepaper, Ranplan Wireless Network Design Ltd,  February 2019** 
@@ -94,7 +94,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Ler artigo todo: **5G NEW RADIO – EVOLUTION, Ericsson Technology Review, Mar, 2020** 
       - Ricardo: **Prazo:** TBD .  **Feito:** .     
       - Dario: **Prazo:** TBD .  **Feito:** .
-      - Eriberto: **Prazo:** . **Feito:** . 
+      - Eriberto: **Prazo:14/01/2021** . **Feito:** . 
 
 ### Frente 2: prototipagem do 4G com ns-3
    - **TODO 2.0**: instalar e integrar o ns-3 no VS code [Hands-on](https://github.com/vicentesousa/IC_LTE_ns3/blob/main/fase_01/HD_00/f01_hd00.ipynb)
