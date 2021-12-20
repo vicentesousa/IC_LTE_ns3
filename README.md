@@ -62,7 +62,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Capítulo 3 (somente até a seção 3.2, não ler a 3.3): **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:**14/10/2021.     
       - Dario: **Prazo:** TBD .  **Feito:**14/10/2021.
-      - Eriberto: **Prazo:20/12/2021** . **Feito:** . 
+      - Eriberto: **Prazo:20/12/2021** . **Feito:19/12/2021** . 
    - **TODO 1.6:** Interface de radio e camadas de protocolos
       - Seções 6.1 e 6.2: **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:** .     
