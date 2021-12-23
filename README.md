@@ -57,7 +57,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Capítulos 1 ao 3: **LTE Small_Cell Optimization**
       - Ricardo: **Prazo:** TBD .  **Feito:** 14/10/2021.   
       - Dario: **Prazo:** TBD .  **Feito:** 14/10/2021.
-      - Eriberto: **Prazo:20/12/2021** . **Feito:** . 
+      - Eriberto: **Prazo:20/12/2021** . **Feito:20/12/2021** . 
    - **TODO 1.5:** Arquitetura do LTE
       - Capítulo 3 (somente até a seção 3.2, não ler a 3.3): **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:**14/10/2021.     
