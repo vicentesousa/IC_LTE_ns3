@@ -67,7 +67,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Seções 6.1 e 6.2: **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:** .     
       - Dario: **Prazo:** TBD.  **Feito:** .
-      - Eriberto: **Prazo:22/12/2021** . **Feito:** . 
+      - Eriberto: **Prazo:22/12/2021** . **Feito:22/12/2021** . 
    - **TODO 1.7:** Camada Fisica
       - Capítulos 4 e 5: **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:** .    
