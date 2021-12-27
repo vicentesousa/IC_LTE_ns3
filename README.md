@@ -76,7 +76,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Seções 6.3, 6.4, 6.5 e 6.6: **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:** .     
       - Dario: **Prazo:** TBD .  **Feito:** .
-      - Eriberto: **Prazo:30/12/2021** . **Feito:** . 
+      - Eriberto: **Prazo:30/12/2021** . **Feito:27/12/2021** . 
    - **TODO 1.9:** RRM
       - Capítulo 8: **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:** .  
