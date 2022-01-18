@@ -65,7 +65,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Eriberto: **Prazo:20/12/2021** . **Feito:19/12/2021** . 
    - **TODO 1.6:** Interface de radio e camadas de protocolos
       - Seções 6.1 e 6.2: **LTE for UMTS - Evolution to LTE-Advanced**
-      - Ricardo: **Prazo:** TBD .  **Feito:** .     
+      - Ricardo: **Prazo:** TBD .  **Feito:**18/01/2022 .     
       - Dario: **Prazo:** TBD.  **Feito:** .
       - Eriberto: **Prazo:22/12/2021** . **Feito:22/12/2021** . 
    - **TODO 1.7:** Camada Fisica
