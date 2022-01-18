@@ -40,34 +40,34 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Capítulo 1: **LTE-ADVANCED 3GPP SOLUTION FOR IMT-ADVANCED**
       - Ricardo: **Prazo:** .  **Feito:** 06/08/2021.
       - Dario: **Prazo:** . **Feito:** 06/08/2021.
-      - Eriberto: **Prazo:** . **Feito: 02/12/2021** . 
+      - Eriberto: **Prazo:** . **Feito:** 02/12/2021. 
    - **TODO 1.2:** Overview sobre LTE
       - Capítulo 3: **LTE-ADVANCED 3GPP SOLUTION FOR IMT-ADVANCED**
       - Ricardo: **Prazo:**  27/08/2021.  **Feito:** 27/08/2021.     
       - Dario: **Prazo:** 27/08/2021.  **Feito:** 02/09/2021.
-      - Eriberto: **Prazo:** . **Feito: 03/12/2021** . 
+      - Eriberto: **Prazo:** . **Feito:** 03/12/2021. 
    - **TODO 1.3:** Overview LTE-A  (release 9 e 10)
       - Capítulo 1: **LTE-ADVANCED 3GPP SOLUTION FOR IMT-ADVANCED**
       - Carrier aggregation: Seções 4.1, 4.2 e 4.6, 5.1, 5.2 e 5.6
       - MIMO: 6.1, 6.2, 6.5, 7.1, 7.2, 7.5
       - Ricardo: **Prazo:** 03/09/2021.  **Feito:** 02/09/2021.     
       - Dario: **Prazo:** 03/09/2021.  **Feito:** 02/09/2021.
-      - Eriberto: **Prazo: 07/12/2021** . **Feito:06/12/2021** .  
+      - Eriberto: **Prazo: 07/12/2021** . **Feito:** 06/12/2021.  
    - **TODO 1.4:** Overview LTE-A PRO (Releases 11, 12, 13)
       - Capítulos 1 ao 3: **LTE Small_Cell Optimization**
       - Ricardo: **Prazo:** TBD .  **Feito:** 14/10/2021.   
       - Dario: **Prazo:** TBD .  **Feito:** 14/10/2021.
-      - Eriberto: **Prazo:20/12/2021** . **Feito:20/12/2021** . 
+      - Eriberto: **Prazo:20/12/2021** . **Feito:** 20/12/2021. 
    - **TODO 1.5:** Arquitetura do LTE
       - Capítulo 3 (somente até a seção 3.2, não ler a 3.3): **LTE for UMTS - Evolution to LTE-Advanced**
-      - Ricardo: **Prazo:** TBD .  **Feito:**14/10/2021.     
-      - Dario: **Prazo:** TBD .  **Feito:**14/10/2021.
-      - Eriberto: **Prazo:20/12/2021** . **Feito:19/12/2021** . 
+      - Ricardo: **Prazo:** TBD .  **Feito:** 14/10/2021.     
+      - Dario: **Prazo:** TBD .  **Feito:** 14/10/2021.
+      - Eriberto: **Prazo:20/12/2021** . **Feito:** 19/12/2021. 
    - **TODO 1.6:** Interface de radio e camadas de protocolos
       - Seções 6.1 e 6.2: **LTE for UMTS - Evolution to LTE-Advanced**
-      - Ricardo: **Prazo:** TBD .  **Feito:**18/01/2022 .     
+      - Ricardo: **Prazo:** TBD .  **Feito:** 18/01/2022 .     
       - Dario: **Prazo:** TBD.  **Feito:** .
-      - Eriberto: **Prazo:22/12/2021** . **Feito:22/12/2021** . 
+      - Eriberto: **Prazo:22/12/2021** . **Feito:** 22/12/2021. 
    - **TODO 1.7:** Camada Fisica
       - Capítulos 4 e 5: **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:** .    
@@ -76,7 +76,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Seções 6.3, 6.4, 6.5 e 6.6: **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:** .     
       - Dario: **Prazo:** TBD .  **Feito:** .
-      - Eriberto: **Prazo:30/12/2021** . **Feito:27/12/2021** . 
+      - Eriberto: **Prazo:30/12/2021** . **Feito:** 27/12/2021. 
    - **TODO 1.9:** RRM
       - Capítulo 8: **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:** .  
