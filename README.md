@@ -66,12 +66,12 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
    - **TODO 1.6:** Interface de radio e camadas de protocolos
       - Seções 6.1 e 6.2: **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:** 18/01/2022 .     
-      - Dario: **Prazo:** TBD.  **Feito:** .
+      - Dario: **Prazo:** TBD.  **Feito:** 24/01/2022.
       - Eriberto: **Prazo:22/12/2021** . **Feito:** 22/12/2021. 
    - **TODO 1.7:** Camada Fisica
       - Capítulos 4 e 5: **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:** .    
-      - Dario: **Prazo:28/12/2021** TBD .  **Feito:** .
+      - Dario: **Prazo:** TBD .  **Feito:** .
    - **TODO 1.8:** MAC, RLC, PDCP
       - Seções 6.3, 6.4, 6.5 e 6.6: **LTE for UMTS - Evolution to LTE-Advanced**
       - Ricardo: **Prazo:** TBD .  **Feito:** .     
