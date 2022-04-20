@@ -99,7 +99,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 ### Frente 2: prototipagem do 4G com ns-3
    - **TODO 2.0**: instalar e integrar o ns-3 no VS code [Hands-on](https://github.com/vicentesousa/IC_LTE_ns3/blob/main/fase_01/HD_00/f01_hd00.ipynb)
    
-   - **TODO 2.1**: Entender e explicar em um jupyter notebook o Basic simulation program (https://www.nsnam.org/docs/models/html/lte-user.html): LTE-only sem EPC. O ipynb deve ter o seguinte conteúdo:
+   - **TODO 2.1**: Entender e explicar em um jupyter notebook o Basic simulation program (https://www.nsnam.org/docs/models/html/lte-user.html): LTE-only sem EPC. O ipynb deve ter o seguinte conteúdo: [Hands-on](https://nbviewer.org/github/vicentesousa/IC_LTE_ns3/blob/main/fase_01/HD_01/f01_hd01.ipynb)
       - **C1**: explicar cada parte do script **lena-simple.cc**;
       - **C2**: explicar como incluir parâmetros de configuração via linha de comando (ver Seção Configuration of LTE model parameters);
       - **C3**: explicar como usar o ConfigStore para grava e carregar parâmetros de ua simulação;
@@ -107,21 +107,21 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Ricardo: **Prazo:** 20/08/2021.  **Feito:** 03/09/2021.     
       - Dario: **Prazo:** 20/08/2021.  **Feito:** 03/09/2021.
       - Eriberto: **Prazo:** . **Feito:** . 
-   -  **TODO 2.2**: Entender, simular e plotar o fading traces 
+   -  **TODO 2.2**: Entender, simular e plotar o fading traces [Hands-on](https://nbviewer.org/github/vicentesousa/IC_LTE_ns3/blob/main/fase_01/HD_02/f01_hd02.ipynb)
       - **C1**: Ler e explicar resumidamente os efeitos da Fading (diferenciar desvanecimentos plano e seletivo em frequência. Diferenciar desvanecimentos lento e rápido. Talvez valha a pena assistir as aulas da UNIDADE I de Comunicações Móveis. Prof. Vicente pode disponibilizar os vídeos)
       - **C2**: Explicar como gerar os arquivo de fading via Matlab (**/lte/model/fading-traces/fading-trace-generator.m**). Ver seção Fading Traces Generation.
       - **C3**: Explicar como habilitar o fading em simulações do ns-3. Explicar script **lena-fading.cc**. Ver seção Fading Traces Usage.
       - Ricardo: **Prazo:** TBD .  **Feito:** 24/09/2021.   
       - Dario: **Prazo:** TBD .  **Feito:** 24/09/2021.
       - Eriberto: **Prazo:** . **Feito:** . 
-   -  **TODO 2.3**: Entender, simular e plotar o REM (Radio Environment Maps)
+   -  **TODO 2.3**: Entender, simular e plotar o REM (Radio Environment Maps) [Hands-on](https://nbviewer.org/github/vicentesousa/IC_LTE_ns3/blob/main/fase_01/HD_03/f01_hd03.ipynb)
       - **C1**: Explicar o que é o REM e para que ele serve
       - **C2**: Explicar o **script lena-rem.cc** e plotar o REM 
       - **C3**: Explicar o script **lena-rem-sector-antenna.cc** e plotar o REM 
       - Ricardo: **Prazo:** TBD .  **Feito:** 06/10/2021.     
       - Dario: **Prazo:** TBD .  **Feito:** 06/10/2021.
       - Eriberto: **Prazo:** . **Feito:** . 
-   -  **TODO 2.4**: Entender, simular e plotar um cenário LTE + EPC
+   -  **TODO 2.4**: Entender, simular e plotar um cenário LTE + EPC [Hands-on](https://nbviewer.org/github/vicentesousa/IC_LTE_ns3/blob/main/fase_01/HD_04/f01_hd04.ipynb)
       - **C1**: Explicar cada parte do script **lena-simple-epc.cc**. Ver Seção Evolved Packet Core (EPC)
       - **c2**: Cenário apenas com 1 eNB e 1 UE. Adicionar o fast fading e shadowing. 
       - **C3**: Fazer campanha de convergência das métricas.
